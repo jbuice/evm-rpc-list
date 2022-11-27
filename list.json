@@ -24,21 +24,9 @@
     "description": "US docker based"
   },
   {
-    "name": "Telos.net EU 2",
-    "http": "https://rpc2.eu.telos.net/evm",
-    "ws": "wss://rpc2.eu.telos.net/evm",
-    "description": "EU docker based"
-  },
-  {
     "name": "TelosKorea.com",
     "http": "https://evm.teloskorea.com/evm",
     "ws": "wss://evm.teloskorea.com/evm",
     "description": "TelosKorea docker based"
-  },  
-  {
-    "name": "Telos Unlimited US 2",
-    "http": "https://rpc02.us.telosunlimited.io/evm",
-    "ws": "wss://rpc02.us.telosunlimited.io/evm",
-    "description": "Telos Unlimited docker based"
   }
 ]
